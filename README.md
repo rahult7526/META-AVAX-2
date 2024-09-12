@@ -19,10 +19,10 @@ Make sure you have the following installed:
 - [Hardhat](https://hardhat.org/) for smart contract development
 
 ### Execution
-Install dependencies: - npm install
-Start a local Ethereum blockchain network: - npx hardhat node
-Deploy the smart contract on the local network: - npx hardhat run --network localhost scripts/deploy.js
-Run the frontend: - npm run dev
+1. Install dependencies: - npm install
+2. Start a local Ethereum blockchain network: - npx hardhat node
+3. Deploy the smart contract on the local network: - npx hardhat run --network localhost scripts/deploy.js
+4. Run the frontend: - npm run dev
 
 ## Usage
 
